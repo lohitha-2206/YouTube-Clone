@@ -1,8 +1,12 @@
 **ViewTube**🎥
+
+
 A responsive YouTube clone built with React.js.
 ViewTube allows users to explore and watch videos in a sleek, modern interface — fully responsive across all devices.
 
 🚀 **Features**
+
+
 📺 Home page displaying trending videos
 
 🎥 Video detail page with player and description
@@ -12,6 +16,8 @@ ViewTube allows users to explore and watch videos in a sleek, modern interface �
 ⚡ Fast and smooth user experience
 
 🛠️ **Tech Stack**
+
+
 **Frontend**: React.js, JavaScript, CSS3
 
 **Routing**: React Router
@@ -20,7 +26,11 @@ ViewTube allows users to explore and watch videos in a sleek, modern interface �
 
 **State Management**: React Hooks (useState, useEffect)
 
+
+
 📂 **Project Structure**
+
+
 pgsql
 Copy
 Edit
@@ -35,7 +45,11 @@ Edit
 │   ├── index.js
 ├── README.md
 ├── package.json
+
+
 ✨ **Future Improvements**
+
+
 Add video search functionality
 
 Add user authentication (Login/Signup)
